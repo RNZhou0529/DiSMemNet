@@ -12,12 +12,11 @@ It combines:
 - **Prototype-Guided Memory Bank** — Refines pseudo-labels with structure-aware retrieval.  
 - **Unified Optimization** — Jointly enforces appearance, semantic, and structural consistency.  
 
-
 ## Quick Start
 ```bash
 git clone https://github.com/RNZhou0529/DiSMemNet.git
 cd DiSMemNet
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Citation
 If you find this work useful, please cite:
@@ -25,6 +24,10 @@ If you find this work useful, please cite:
   title={DiSMemNet: Structure-Aware Distillation and Memory Network for Generalizable Unsupervised Domain Adaptation in EM Segmentation},
   author={Zhou, Ruining and Guo, Jinyue and Jiang, Liuyun and Liu, Jing and Han, Hua},
   year={2025},
+  institution={Institute of Automation, Chinese Academy of Sciences}
 }
+
+
+
 
 
