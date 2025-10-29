@@ -16,7 +16,8 @@ It combines:
 ```bash
 git clone https://github.com/RNZhou0529/DiSMemNet.git
 cd DiSMemNet
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## Citation
 If you find this work useful, please cite:
@@ -26,8 +27,3 @@ If you find this work useful, please cite:
   year={2025},
   institution={Institute of Automation, Chinese Academy of Sciences}
 }
-
-
-
-
-
